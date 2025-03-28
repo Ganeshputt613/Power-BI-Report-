@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Power BI Report</title>
+    <style>
+        /* Basic styling for the page */
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            width: 100%;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        iframe {
+            width: 100%;
+            height: 600px;
+            border: none;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Power BI Report - January 2025</h1>
+        <p>Here is the updated Power BI report for January 2025:</p>
+
+        <!-- Embed the Power BI iframe -->
+        <iframe 
+            title="mis jan-25 updated-1 (5)" 
+            src="https://app.powerbi.com/reportEmbed?reportId=cb06d192-1582-417d-86a9-57bbf91d61d5&autoAuth=true&ctid=606171e8-1d45-4be9-9160-82d1ef342dd7" 
+            frameborder="0" 
+            allowFullScreen="true">
+        </iframe>
+    </div>
+</body>
+</html>
